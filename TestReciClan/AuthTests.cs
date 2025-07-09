@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using ReciClan.Controllers;
 using ReciClan.Services;
-using Xunit;
 
 namespace TestReciClan;
 
